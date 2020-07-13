@@ -8,7 +8,7 @@ I am a Mathematical Statistician in the FRAM Population Ecology Program at the N
 
 ## Ongoing Projects
 - Summarizing and visualizing data for use in stock assessments
-- Data moderate assessment applications (xsss, ss-cl)
+- Data moderate assessment applications ([xsss](https://github.com/chantelwetzel-noaa/XSSS), [sss](https://github.com/shcaba/SSS), Stock Synthesis-Catches and Lengths only)
 - Creating dynamic stock assessment documents that provide ease of use
 
 ## Get in touch
