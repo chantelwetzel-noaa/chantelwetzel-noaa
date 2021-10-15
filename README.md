@@ -5,6 +5,7 @@ I am a Mathematical Statistician in the FRAM Population Ecology Program at the N
 ## Collaborations/Organizations
 - [r4ss](https://github.com/r4ss)
 - [Stock synthesis](https://vlab.ncep.noaa.gov/web/stock-synthesis) 
+- [nwfsc-assess](https://github.com/nwfsc-assess)
 
 ## Ongoing Projects
 - Summarizing and visualizing data for use in stock assessments
