@@ -1,6 +1,6 @@
 # Chantel Wetzel-@chantelwetzel-noaa
 
-I am a Mathematical Statistician in the FRAM Population Ecology Program at the Northwest Fisheries Science Center in Seattle, WA. I conduct stock assessments for U.S. West Coast groundfish stocks.  My research focuses on developing stock assessment approaches, methods to improve data processing for assessments, and evaluating assessment results. 
+I am a Mathematical Statistician in the FRAM Population Ecology Program at the Northwest Fisheries Science Center in Seattle, Washington. I conduct stock assessments for U.S. West Coast groundfish stocks.  My research focuses on developing stock assessment approaches, methods to improve data processing for assessments, and evaluating assessment results. 
 
 ## Collaborations/Organizations
 - [r4ss](https://github.com/r4ss)
